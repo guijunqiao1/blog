@@ -5,14 +5,14 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "细节王子",
   description: "个人前端博客，欢迎来玩！",
-  base: '/gjq_blog/',
+  base: '/blog/',
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
     author: "gjq",
     authorAvatar: "/githubLOGO.jpg",
-    docsRepo: "https://github.com/guijunqiao1/gjq_blog",
+    docsRepo: "https://github.com/guijunqiao1/blog",
     docsBranch: "main",
     docsDir: "docs",
     lastUpdatedText: "",
@@ -127,7 +127,7 @@ export default defineUserConfig({
           children: [
             {
               text: "点我",
-              link: "/gjq_blog/blogs/other/social.html",
+              link: "/blog/blogs/other/social.html",
             }
           ]
         }
