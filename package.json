@@ -1,9 +1,9 @@
 {
-  "name": "chen2021z_blog",
+  "name": "gjq_blog",
   "version": "2.0.0",
-  "description": "this is a chen2021z blog on github",
-  "repository": "git@github.com:recoluan/vuepress-theme-reco-demo.git",
-  "author": "chen2021 <2934570984@qq.com>",
+  "description": "this is a gjq's blog on github",
+  "repository": "git@github.com:guijunqiao1/gjq_blog.git",
+  "author": "gjq <gjq3535139173@qq.com>",
   "license": "MIT",
   "scripts": {
     "start": "vuepress dev .",
