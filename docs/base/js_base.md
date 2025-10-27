@@ -16,7 +16,7 @@ categories:
   let a // undefined
   const s = 'abc'
   const n = 100
-  const b = true
+  const b = true;awdadwdawdawdawdawdawad
   const y = Symbol('y')
   ```
 
